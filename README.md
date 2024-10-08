@@ -1,7 +1,7 @@
 # Arr || Ghost Code Night &#128075;
 
 <div align="center">
- <img width="600px" alt="ghost1" src="https://files.catbox.moe/4iepea.png">
+ <img width="500px" alt="ghost1" src="https://files.catbox.moe/4iepea.png">
 </div>
 
 - **UI/UX** Every pixel you design has the potential to affect someone. Use that power wisely.
