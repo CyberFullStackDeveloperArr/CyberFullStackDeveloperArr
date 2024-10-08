@@ -27,4 +27,8 @@
 | Java | - | - | - | - | - |
 | Python | - | - | - | Confidential | - |
 
+<div align="center">
+ <img alt="ghost2" src="https://files.catbox.moe/5vvjjx.png">
+</div>
+
 <p align="center">The ability to explore and understand the system becomes the main weapon. However, in an ever-evolving digital world, intuitive and attractive design is key to creating a satisfying user experience. The combination of ethical hacking techniques and creative design allows us to not only protect information, but also build attractive and functional applications. By combining these expertise, we can create solutions that are not only secure, but also aesthetically pleasing, delivering the perfect balance between security and an exceptional user experience.</p>
