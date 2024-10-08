@@ -1,5 +1,9 @@
 # Arr || Ghost Code Night &#128075;
 
+- Digital heroes who are committed to protecting cyberspace from threats. They use their expertise to identify and fix vulnerabilities, not to exploit.
+- They can quickly adapt to new technologies and implement them in their projects.
+- It's not just about building the web but design and user experience are important
+
 <div align="center">
  <img width="500px" alt="ghost1" src="https://files.catbox.moe/4iepea.png">
 </div>
